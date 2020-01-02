@@ -1,0 +1,15 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /*
+
+Disallow: /js/
+Disallow: /lib/
+Disallow: /css/
+
+Sitemap: https://www.yzer.club/sitemap.xml
+Sitemap: https://www.yzer.club/baidusitemap.xml
