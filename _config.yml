@@ -109,7 +109,7 @@ nofollow:
 
 # hexo-filter-emoji
 emoji:
-  enable: true
+  enable: false
   className: github-emoji
   styles:
   customEmojis:
