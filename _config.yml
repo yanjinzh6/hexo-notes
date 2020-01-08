@@ -113,3 +113,11 @@ emoji:
   className: github-emoji
   styles:
   customEmojis:
+
+# hexo-filter-github-emojis
+githubEmojis:
+  enable: true
+  className: github-emoji
+  inject: true
+  styles:
+  customEmojis:
