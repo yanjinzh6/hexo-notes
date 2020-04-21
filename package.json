@@ -9,11 +9,12 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "4.1.1"
+    "version": "4.2.0"
   },
   "dependencies": {
-    "hexo": "^4.0.0",
+    "hexo": "^4.2.0",
     "hexo-filter-github-emojis": "^2.1.0",
+    "hexo-filter-mermaid-diagrams": "^1.0.5",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-baidu-sitemap": "^0.1.6",
     "hexo-generator-category": "^1.0.0",

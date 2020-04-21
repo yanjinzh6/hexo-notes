@@ -112,6 +112,7 @@ emoji:
   enable: false
   className: github-emoji
   styles:
+    background-image: none
   customEmojis:
 
 # hexo-filter-github-emojis
