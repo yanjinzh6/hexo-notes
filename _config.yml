@@ -168,3 +168,9 @@ math:
   engine: 'mathjax'
   mathjax:
     src: https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
